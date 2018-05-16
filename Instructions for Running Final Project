@@ -2,6 +2,14 @@ Hello Martin,
 
 Just thought I would write this to make sure you are able to run the code.  
 
-The file is in the FigShare link.
+The file is in the FigShare link.  https://figshare.com/s/7feee42f7896a797e247
 
-To make sure the code works, download the CSV file from figshare, and place it into the desktop.
+To make sure the code works, you will need to download the CSV file from Figshare and place it into your desktop.  
+the code is written to find it into the desktop.
+
+Run the code, you may get a Red Message bar saying "Mixed Types....".  Please ignore this, the code should work just fine without it.
+
+You must enter the name of the gene EXACTLY as it is written, or else it will say it is not in the INDEX.
+
+Best of Luck,
+-Zachary Knotts
